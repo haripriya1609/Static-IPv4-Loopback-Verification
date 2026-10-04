@@ -31,3 +31,16 @@ Cisco Packet Tracer 9.0.1
 ## Project File
 
 firsttask.pkt
+## Screenshots
+
+### Workspace
+![Workspace](1.png)
+
+### IP Configuration
+![IP Configuration](4.png)
+
+### IP Configuration Output
+![IP Output](3.png)
+
+### Ping Test
+![Ping Test](2.png)
